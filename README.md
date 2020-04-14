@@ -219,7 +219,9 @@ Una vez que tenemos el código ejecutamos el script:
 ![imagen](https://github.com/AlbertoMartinezPose/tarea-3-bases/blob/master/1.1.PNG)
 
 A continuación entramos en mysql con los comandos que ya vimos, y verificamos que la base de datos y las tablas se han creado perfectamente:
+
 ![imagen](https://github.com/AlbertoMartinezPose/tarea-3-bases/blob/master/1.2.PNG)
+
 ![imagen](https://github.com/AlbertoMartinezPose/tarea-3-bases/blob/master/1.3.PNG)
 
 
