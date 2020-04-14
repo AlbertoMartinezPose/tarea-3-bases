@@ -1,6 +1,6 @@
 ## CREACIÓN BASE DE DATOS ##
 
-A continuación crearemos la **base de datos Investigación** desde la terminal de comandos de Linux. Para acceder a la aplicación utilizamos el siguiente comando 
+A continuación crearemos la **BASE DE DATOS DE INVESTIGACIÓN** desde la terminal de comandos de Linux. Para acceder a la aplicación utilizamos el siguiente comando 
 ~~~~
 sudo mysql
 ~~~~
