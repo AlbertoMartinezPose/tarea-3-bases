@@ -1,13 +1,13 @@
 ## CREACIÓN BASE DE DATOS ##
 
-A continuación crearemos la ##### base de datos Investigación ##### desde la terminal de comandos de Linux. Para acceder a la aplicación utilizamos el siguiente comando 
+A continuación crearemos la ~~~~~ base de datos ~~~~ Investigación desde la terminal de comandos de Linux. Para acceder a la aplicación utilizamos el siguiente comando 
 ~~~~
 sudo mysql
 ~~~~
 
 Con este comando ya estamos listos para crear nuestra base de datos.
 Primero eliminamos cualquiera base de datos que tengo el mismo nombre que la que vamos crear para que no haya ningún conflico.
--captura0.1
+
 ![imagen](https://github.com/AlbertoMartinezPose/tarea-3-bases/blob/master/0.1.PNG?raw=true)
 
 La creamos y me diante el comando:
@@ -15,7 +15,8 @@ La creamos y me diante el comando:
 use <nombredatabase>
 ~~~~
 Nos introducimos dentro y ya podemos crear tablas.
--captura0.2
+![imagen](https://github.com/AlbertoMartinezPose/tarea-3-bases/blob/master/0.2.PNG?raw=true)
+
 
 Y así con todas las tablas que el siguiente código:
 ~~~~sql
@@ -95,12 +96,12 @@ Una vez creada la base de datos introducirnos dentro para ver sus elementos, por
 ~~~~
 SHOW TABLES;
 ~~~~
--captura 0.3
+![imagen](https://github.com/AlbertoMartinezPose/tarea-3-bases/blob/master/0.3.PNG?raw=true)
 
 Si queremos ver en profundidad cada tabla utilizaremos el siguiente comando:
 ~~~~
 DESC <nombre_de_la_tabla>
 ~~~~
--captura 0.4
+![imagen](https://github.com/AlbertoMartinezPose/tarea-3-bases/blob/master/0.4.PNG?raw=true)
 
 
