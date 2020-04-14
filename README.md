@@ -86,10 +86,14 @@ CREATE TABLE Financia(
 	PRIMARY KEY (Nome_Programa, Codigo_Proxecto)
 );
 ALTER TABLE Financia ADD FOREIGN KEY (Nome_Programa)
-REFERENCES Programa (Nome_Programa) ON UPDATE CASCADE ON DELETE CASCADE;
+REFERENCES Programa (Nome_Programa) 
+ON UPDATE CASCADE 
+ON DELETE CASCADE;
 
 ALTER TABLE Financia ADD FOREIGN KEY (Codigo_Proxecto)
-REFERENCES Proxecto (Codigo_Proxecto) ON DELETE CASCADE ON UPDATE CASCADE;
+REFERENCES Proxecto (Codigo_Proxecto) 
+ON DELETE CASCADE 
+ON UPDATE CASCADE;
 ~~~~
 
 Una vez creada la base de datos introducirnos dentro para ver sus elementos, por ejemplo para ver las tablas creadas utilizaremos el comando:
