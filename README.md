@@ -8,14 +8,14 @@ sudo mysql
 Con este comando ya estamos listos para crear nuestra base de datos.
 Primero eliminamos cualquiera base de datos que tengo el mismo nombre que la que vamos crear para que no haya ningún conflico.
 
-![imagen](https://github.com/AlbertoMartinezPose/tarea-3-bases/blob/master/0.1.PNG?raw=true)
+![imagen](https://github.com/AlbertoMartinezPose/tarea-3-bases/blob/master/0.1.PNG)
 
 La creamos y me diante el comando:
 ~~~~
 use <nombredatabase>
 ~~~~
 Nos introducimos dentro y ya podemos crear tablas.
-![imagen](https://github.com/AlbertoMartinezPose/tarea-3-bases/blob/master/0.2.PNG?raw=true)
+![imagen](https://github.com/AlbertoMartinezPose/tarea-3-bases/blob/master/0.2.PNG)
 
 
 Y así con todas las tablas que el siguiente código:
@@ -100,7 +100,7 @@ Una vez creada la base de datos introducirnos dentro para ver sus elementos, por
 ~~~~
 SHOW TABLES;
 ~~~~
-![imagen](https://github.com/AlbertoMartinezPose/tarea-3-bases/blob/master/0.3.PNG?raw=true)
+![imagen](https://github.com/AlbertoMartinezPose/tarea-3-bases/blob/master/0.3.PNG)
 
 Si queremos ver en profundidad cada tabla utilizaremos el siguiente comando:
 ~~~~
@@ -216,11 +216,11 @@ CREATE TABLE Visita (
 );
 ~~~~
 Una vez que tenemos el código ejecutamos el script:
--capt1.1
+![imagen](https://github.com/AlbertoMartinezPose/tarea-3-bases/blob/master/1.1.PNG)
 
 A continuación entramos en mysql con los comandos que ya vimos, y verificamos que la base de datos y las tablas se han creado perfectamente:
--capt1.2
--cao1.3
+![imagen](https://github.com/AlbertoMartinezPose/tarea-3-bases/blob/master/1.2.PNG)
+![imagen](https://github.com/AlbertoMartinezPose/tarea-3-bases/blob/master/1.3.PNG)
 
 
 
