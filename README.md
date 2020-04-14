@@ -8,7 +8,7 @@ sudo mysql
 Con este comando ya estamos listos para crear nuestra base de datos.
 Primero eliminamos cualquiera base de datos que tengo el mismo nombre que la que vamos crear para que no haya ningún conflico.
 -captura0.1
-![imagen](direccion)
+![imagen](https://github.com/AlbertoMartinezPose/tarea-3-bases/blob/master/0.1.PNG?raw=true)
 
 La creamos y me diante el comando:
 ~~~~
